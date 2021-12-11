@@ -1,0 +1,16 @@
+{
+    "calculate": "Hesapla",
+    "currencies": "Kurlar",
+    "mainCurrency": "Ana Kur",
+    "apply": "Uygula",
+    "language": "Dil",
+    "theme": "Tema",
+    "refresh": "Yenile",
+    "loading": "Yükleniyor",
+    "code": "Kur Kodu",
+    "service": "Veri Servisi",
+    "fetchTime": "Son Veri Yenileme",
+    "settings": "Ayarlar",
+    "light": "Açık Tema",
+    "dark": "Koyu Tema"
+}

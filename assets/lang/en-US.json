@@ -1,0 +1,16 @@
+{
+    "calculate": "Calculate",
+    "currencies": "Currencies",
+    "mainCurrency": "Main Currency",
+    "apply": "Apply",
+    "language": "Language",
+    "theme": "Theme",
+    "refresh": "Refresh",
+    "loading": "Loading",
+    "code": "Currency Code",
+    "service": "Data Service",
+    "fetchTime": "Last Fetch Time",
+    "settings": "Settings",
+    "light": "Light Theme",
+    "dark": "Dark Theme"
+}
